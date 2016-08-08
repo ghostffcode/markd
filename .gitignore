@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#ignore build directory
+build
+
+#ignore node modules directory
+node_modules
